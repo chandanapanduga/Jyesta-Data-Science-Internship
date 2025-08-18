@@ -1,3 +1,3 @@
-Jyesta_Data_Science_Internship
+Jyesta-Data-Science-Internship
 
 Contact: pandugachandana44@gmail.com
